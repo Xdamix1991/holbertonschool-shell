@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i '3p'
+tail -n 3 iacta > iacta
